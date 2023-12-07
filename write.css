@@ -1,0 +1,41 @@
+body{
+    background-color: ghostwhite;
+    font-family:Avenir , "Open Sans" , "Helvetica Neue" , Helvetica , Arial , Verdana , Roboto , "游ゴシック" , "Yu Gothic" , "游ゴシック体" , "YuGothic" , "ヒラギノ角ゴ Pro W3" , "Hiragino Kaku Gothic Pro" , "Meiryo UI" , "メイリオ" , Meiryo , "ＭＳ Ｐゴシック" , "MS PGothic" , sans-serif;
+    font-size:15px;
+      background-position: center top;
+      background-repeat: no-repeat;
+      -webkit-background-size: cover;
+      background-size: cover;
+      background-attachment: fixed;
+  }
+
+
+.ohbo {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 270px;
+}
+
+.ohbo-txt {
+    font-size: 20px;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    font-size: 20px;
+    list-style: none;
+}
+
+
+#kanri {
+    margin-left: 620px;
+    
+}
+
+#return {
+    margin-left: 640px;
+}
