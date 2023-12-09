@@ -168,7 +168,7 @@ foreach ($ageGroups as $ageGroup => $contentByAge) {
             echo "<div style='color: {$color};'>";
             echo "性別: {$entry['性別']}<br>";
             echo "</div>";
-            
+
             echo "その他・希望: {$entry['その他・希望']}<br>";
             echo "<br>";
 
